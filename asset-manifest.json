@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Datchany/ReactProjects.git/static/css/main.ca67ef22.css",
-    "main.js": "/Datchany/ReactProjects.git/static/js/main.0f17f4d3.js",
-    "static/js/488.f93d9ff7.chunk.js": "/Datchany/ReactProjects.git/static/js/488.f93d9ff7.chunk.js",
-    "static/media/img2.png": "/Datchany/ReactProjects.git/static/media/img2.9c33c28218dde5045c60.png",
-    "static/media/img3.png": "/Datchany/ReactProjects.git/static/media/img3.d5574fefbf09902a5644.png",
-    "static/media/img1.png": "/Datchany/ReactProjects.git/static/media/img1.3eb3838e395fb7b46bd3.png",
-    "index.html": "/Datchany/ReactProjects.git/index.html",
-    "main.ca67ef22.css.map": "/Datchany/ReactProjects.git/static/css/main.ca67ef22.css.map",
-    "main.0f17f4d3.js.map": "/Datchany/ReactProjects.git/static/js/main.0f17f4d3.js.map",
-    "488.f93d9ff7.chunk.js.map": "/Datchany/ReactProjects.git/static/js/488.f93d9ff7.chunk.js.map"
+    "main.css": "/ReactProjects/static/css/main.ca67ef22.css",
+    "main.js": "/ReactProjects/static/js/main.df922321.js",
+    "static/js/488.f93d9ff7.chunk.js": "/ReactProjects/static/js/488.f93d9ff7.chunk.js",
+    "static/media/img2.png": "/ReactProjects/static/media/img2.9c33c28218dde5045c60.png",
+    "static/media/img3.png": "/ReactProjects/static/media/img3.d5574fefbf09902a5644.png",
+    "static/media/img1.png": "/ReactProjects/static/media/img1.3eb3838e395fb7b46bd3.png",
+    "index.html": "/ReactProjects/index.html",
+    "main.ca67ef22.css.map": "/ReactProjects/static/css/main.ca67ef22.css.map",
+    "main.df922321.js.map": "/ReactProjects/static/js/main.df922321.js.map",
+    "488.f93d9ff7.chunk.js.map": "/ReactProjects/static/js/488.f93d9ff7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ca67ef22.css",
-    "static/js/main.0f17f4d3.js"
+    "static/js/main.df922321.js"
   ]
 }
