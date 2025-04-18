@@ -6,7 +6,7 @@ const data ={
         {
             id: 1,
             img: img1,
-            title: 'Juicy Grapes',
+            title: 'Grapes ',
             desc: '',
             price: 46,
         },
@@ -20,7 +20,7 @@ const data ={
         {
             id: 3,
             img: img3,
-            title: 'Juicy Orange',
+            title: ' Orange',
             desc: '',
             price: 46,
         }
